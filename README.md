@@ -8,7 +8,7 @@ Created from templates made available by Stagehand under a BSD-style
 ================================================================================
 
 
-follow setting below : 
+follow setting : 
 https://dart.dev/tutorials/server/get-started
 
 command-line execute : dart bin/project.dart
